@@ -1,0 +1,2 @@
+10.0 = Operations{number1=5.0, number2=5.0, result=10.0, type='sum'}Operations{number1=5.0, number2=5.0, result=1.0, type='div'}Operations{number1=10.0, number2=10.0, result=100.0, type='mult'}
+Operations{number1=45.0, number2=30.0, result=15.0, type='sub'}
